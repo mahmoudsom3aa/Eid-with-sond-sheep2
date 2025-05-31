@@ -29,7 +29,7 @@
   position: absolute;
   top: 30%;
   left: 50%;
-  transform: translate(-50%);/* هنا العداد نزل*/
+  /*transform: translate(-50%); هنا العداد نزل*/
   z-index: 0;
   color: black;
   text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 #ffffff, -1px 1px 0 rgb(255, 255, 255),
